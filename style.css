@@ -100,7 +100,7 @@
       min-height: 600px;
       position: relative;
       overflow: hidden;
-      background: url('image/image1.jpg') center/cover no-repeat;
+      background: url('image1.jpg') center/cover no-repeat;
     }
     
     .hero::before {
